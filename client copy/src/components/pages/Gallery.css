@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap");
+
+body {
+  font-family: "Amatic SC", sans-serif;
+  background-color: #dee8b4;
+}
+.gallery-title {
+  font-weight: 300;
+  font-size: 24px;
+  margin: var(--m) var(--s);
+  font-size: 60px;
+  font-weight: 700;
+  left: 536px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 588px;
+  width: 316px;
+}
+
+.leaf2 {
+  height: 252px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 269px;
+}
